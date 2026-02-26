@@ -6,7 +6,7 @@
 ### About Me
 I am a Computer Science student at Noida Institute of Engineering and Technology with a strong interest in Full Stack Web Development and Software Engineering. I enjoy building scalable, user-focused web applications and solving real-world problems through technology.
 
-I have hands-on experience as a Software Development Intern where I worked on real-world projects, responsive frontend components, and performance optimization using modern web technologies.
+I have hands-on experience as I have hands-on experience working on real-world web projects and scalable applications. where I worked on real-world projects, responsive frontend components, and performance optimization using modern web technologies.
 
 Currently, I am focused on improving my Data Structures & Algorithms, Full Stack Development, and building strong projects for internships and placements.
 
