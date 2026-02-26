@@ -1,14 +1,45 @@
-# Hi, I'm Sakshi Mishra
+<h1 align="center">Hi, I'm Sakshi Mishra</h1>
+<h3 align="center">Full Stack Web Developer | B.Tech CSE Student (2023–2027)</h3>
 
-I am a B.Tech Computer Science student at Noida Institute of Engineering and Technology (2023–2027) with a strong interest in Full Stack Web Development and Software Engineering. I enjoy building practical web applications that solve real-world problems and improve user experience.
+---
 
-I have hands-on experience working as a Software Development Intern at Cyberplex IT Solutions, where I developed responsive frontend components and contributed to real-world client projects. Through this experience, I improved my skills in React, JavaScript, debugging, and performance optimization.
+### About Me
+I am a Computer Science student at Noida Institute of Engineering and Technology with a strong interest in Full Stack Web Development and Software Engineering. I enjoy building scalable, user-focused web applications and solving real-world problems through technology.
 
-My technical skill set includes Java, Python, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL. I am also strengthening my foundation in Data Structures, OOPs, DBMS, Operating Systems, and Computer Networks as part of my academic journey.
+I have hands-on experience as a Software Development Intern where I worked on real-world projects, responsive frontend components, and performance optimization using modern web technologies.
 
-I have built several full-stack projects such as a Real-Time Chat Application, an Uber Clone Application, an AI-Powered Crop Yield Prediction Platform, and a Student Performance Analyzer. These projects helped me understand scalable architecture, REST APIs, authentication, and real-time systems.
+Currently, I am focused on improving my Data Structures & Algorithms, Full Stack Development, and building strong projects for internships and placements.
 
-Currently, I am focused on improving my DSA, Full Stack Development, and problem-solving skills to prepare for internships and software development roles.
+---
 
-Email: [sakshimishra10112006@gmail.com](mailto:sakshimishra10112006@gmail.com)
-GitHub: github.com/Sakshi-123-mishra
+### Tech Stack
+- Languages: Java, Python, JavaScript  
+- Frontend: HTML, CSS, React.js, Tailwind CSS  
+- Backend: Node.js, Express.js, REST APIs  
+- Databases: MongoDB, MySQL  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+### Projects
+- Real-Time Chat Application (React, Node.js, Socket.io, MongoDB)  
+- Uber Clone Application  
+- AI-Powered Crop Yield Prediction Platform  
+- Student Performance Analyzer  
+
+---
+
+### GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-123-mishra&show_icons=true&theme=radical" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-123-mishra&theme=radical" />
+</p>
+
+---
+
+### Connect With Me
+- Email: sakshimishra10112006@gmail.com
+- GitHub: https://github.com/Sakshi-123-mishra
